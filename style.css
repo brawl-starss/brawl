@@ -118,6 +118,7 @@ body {
 }
 
 .vdddsc {
+    user-select: none;
     font-size: 50px;
     width: 250px;
     margin: 100px;
@@ -150,6 +151,7 @@ body {
 }
 
 .vdddsc:hover{
+    user-select: none;
     padding: 10px;
    font-size: 25px; 
 }
@@ -167,6 +169,7 @@ body {
 }
 
 .vdddfc {
+    user-select: none;
     font-size: 50px;
     width: 250px;
     font-size: 23px;
@@ -178,6 +181,7 @@ body {
 
 .fdfgee:hover,
 .fdfgee:focus {
+    user-select: none;
     padding: 3px;
      background-color: #ff7108;
     width: 220px;
