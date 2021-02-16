@@ -1,0 +1,153 @@
+body {
+    
+    background-color: rgb(99, 71, 255);
+    font-family: Arial;
+        
+}
+
+.w {
+    border-radius: 13px;
+    margin-top: 15px;
+    width: auto;
+    letter-spacing: 1px;
+    height: 430px;
+    margin: 40 300;
+    background-color: rgba(204, 204, 204, 0.47);
+    box-shadow: 0 2px 5px #000000;
+    text-align: center;
+}
+
+.ff {
+    text-shadow: 1px 2px #ccc;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgba(204, 204, 204, 0.33);
+    border-radius: 30px;
+    color: #000;
+    margin: 0 auto;
+    font-size: 45px;
+     box-shadow: 0 5px 10px #000;
+}
+
+.d {
+    font-size: 20px;
+    padding: 3px;
+    color: #000000;
+    margin: -430 auto;
+    width: 350px;
+    background-color: rgb(35, 189, 209);
+    text-shadow: 0.3px 1px #ccc;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px #6cff00;
+    text-rendering: auto;
+}
+
+
+.xxx {
+    font-size: 50px;
+    width: 250px;
+    font-size: 23px;
+    text-shadow: 1px 2px #414141;
+    color: #000000;
+    margin: -1005 auto;
+    text-decoration: none;
+}
+.x {
+    
+    border-radius: 10px;
+    box-shadow: 0 5px 5px #d80000;
+    text-shadow: 1px 2px #ccc;
+    text-align: center;
+    height: 30px;
+    margin: -410 auto;
+    width: 200px;
+    background-color: #1546ea;
+}
+
+.as {
+    margin: 450 auto;
+    border-radius: 10px;
+    width: 320px;
+    padding: 3px;
+    background-color: rgb(35, 189, 209);
+    box-shadow: 0 5px 10px #27d60f;
+    text-align: center;
+    margin: 500 auto;
+}
+
+
+.x:hover,
+.x:focus {
+    padding: 3px;
+     background-color: #2a5bff;
+    width: 220px;
+    font-size: 25px;
+     border-radius: 10px;
+    box-shadow: 0 5px 5px #00d808;
+}
+
+.xxx:hover{
+    padding: 10px;
+   font-size: 25px; 
+}
+
+.d:hover {
+    box-shadow: 0 5px 5px #f2a20c;
+    padding: 5px;
+}
+
+
+.as:hover {
+    box-shadow: 0 5px 5px #f2a20c;
+    padding: 5px;
+}
+
+.aa {
+    text-shadow: 1px 2px #ccc;
+    font-size: 16px;
+    text-shadow: 1px 2px #adadad;
+    color: #000000;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
